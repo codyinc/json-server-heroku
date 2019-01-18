@@ -1,7 +1,4 @@
 {
-    "id": "shop/new/all-new",
-    "name": "All New",
-    "categoryType": "subcat",
     "groups": [{
             "id": "organic-luxe-fibrosoft-towels-white-b2650",
             "name": "Organic Luxe Fibrosoft&#8482; Towels - White",
@@ -899,7 +896,6 @@
                 "type": "GROUP_REVIEWS"
             }
         }
-    ],
-    "totalPages": 50,
-    "categories": []
+    ]
+
 }
